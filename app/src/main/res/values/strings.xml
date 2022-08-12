@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">My Java</string>
+    <string name="close">close</string>
+    <string name="hello_world">hello world</string>
+    <string name="click_me">click me</string>
+    <string name="insert_text">insert_text</string>
+    <string name="hello">hello</string>
+    <string name="Exit">exit</string>
+    <string name="download1" >download</string>
+    <string name="search">search</string>
+    <string name="_09368558019">09368558019</string>
+    <string name="mahmod_ranjbaraan">mahmod ranjbaran</string>
+    <string name="add_note">Add Note</string>
+    <string name="show_all">Show All</string>
+    <string name="share_app">Share App</string>
+    <string name="exit">Exit</string>
+    <string name="open">Open</string>
+    <string name="closee" >Close</string>
+    <string name="exit_to_app_item">ExitApp</string>
+    <string name="message_text">Are you sure exit?</string>
+</resources>
