@@ -30,6 +30,6 @@ public class MainActivity extends AppCompatActivity {
                startActivity(intent);
                Toast.makeText(getApplicationContext(),"next actvity",Toast.LENGTH_SHORT).show();
            });
-
+               //this is message for pull git
     }
 }
