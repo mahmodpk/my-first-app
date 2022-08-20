@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
     int i = 0;
     int j = 0;
     int l = 0;
+    String title = "Welcome ";
     @SuppressLint("SetTextI18n")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
