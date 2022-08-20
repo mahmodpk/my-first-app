@@ -15,6 +15,9 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity {
 
     Toolbar toolbar;
+    int i = 0;
+    int j = 0;
+    int l = 0;
     @SuppressLint("SetTextI18n")
     @Override
     protected void onCreate(Bundle savedInstanceState) {

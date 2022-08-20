@@ -14,3 +14,12 @@ dependencyResolutionManagement {
 }
 rootProject.name = "My Java"
 include ':app'
+
+//settings.gradle
+buildCache {
+    local {
+        directory = new File(rootDir, 'build-cache')
+        removeUnusedEntriesAfterDays = 30
+    }
+}
+
